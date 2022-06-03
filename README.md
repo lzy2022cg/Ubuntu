@@ -8,3 +8,4 @@ Ubuntu download location
 打开终端输入指令:sudo gedit sources.list
 镜像源:
  然后输入:sudo apt-get update进行更新
+ 最后再输入:sudo apt upgrade结束
