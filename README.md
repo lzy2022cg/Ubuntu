@@ -7,3 +7,4 @@ Ubuntu download location
 清华大学镜像源https://mirrors.tuna.tsinghua.edu.cn/
 打开终端输入指令:sudo gedit sources.list
 镜像源:
+ 然后输入:sudo apt-get update进行更新
